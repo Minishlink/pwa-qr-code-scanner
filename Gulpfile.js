@@ -72,6 +72,6 @@ gulp.task('generate-service-worker-dist', function() {
     writeServiceWorkerFile(DIST_DIR, true);
 });
 
-gulp.task('gh-pages', ['build'], function() {
+gulp.task('gh-pages', ['build-dist'], function() {
     ghPages.publish(path.join(__dirname, DIST_DIR));
 });
