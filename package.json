@@ -1,0 +1,15 @@
+{
+  "name": "pwa-qr-code-scanner",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gh-pages": "^0.12.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-copy": "^1.0.0",
+    "path": "^0.12.7",
+    "run-sequence": "^1.2.2",
+    "sw-precache": "^4.2.3"
+  }
+}
