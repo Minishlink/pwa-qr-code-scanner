@@ -76,7 +76,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
         // open a dialog with the result if found
         if (resultData !== false) {
-            navigator.vibrate(200);
+            //navigator.vibrate(200);
             disableUI();
 
             try {
