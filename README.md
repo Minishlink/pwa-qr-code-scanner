@@ -13,7 +13,8 @@ Lightweight progressive web app for scanning QR codes offline.
 - No tracking
 
 ## Build
-* `npm install`
+* `yarn`
+* `bower install`
 * `gulp dev` or `gulp prod`
 
 ## Browser support
