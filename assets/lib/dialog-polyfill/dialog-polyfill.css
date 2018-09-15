@@ -12,26 +12,17 @@ dialog {
   padding: 1em;
   background: white;
   color: black;
-  display: none;
+  display: block;
 }
 
-dialog[open] {
-  display: block;
+dialog:not([open]) {
+  display: none;
 }
 
 dialog + .backdrop {
   position: fixed;
   top: 0; right: 0; bottom: 0; left: 0;
   background: rgba(0,0,0,0.1);
-}
-
-/* for small devices, modal dialogs go full-screen */
-@media screen and (max-width: 540px) {
-  dialog[_polyfill_modal] {  /* TODO: implement */
-    top: 0;
-    width: auto;
-    margin: 1em;
-  }
 }
 
 ._dialog_overlay {
