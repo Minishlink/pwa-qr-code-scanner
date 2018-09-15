@@ -23,7 +23,7 @@ As of September 2018:
 --- | --- | --- | --- | --- | ---
  ✔️ | ✔️ | ✔️ \* | ❓ \* | ❓ \* | ❓ \*
 
- Note: Browsers marked with \* does not support vibration API.
+ Note: Browser marked with \* does not support vibration API.
 
 ## License
 This project is licensed under MIT License.
