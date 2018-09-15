@@ -20,8 +20,8 @@ Lightweight progressive web app for scanning QR codes offline.
 As of September 2018:
 
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_32x32.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_32x32.png) | ![Microsoft Edge](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_32x32.png) | ![Internet Explorer](https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_32x32.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_32x32.png)
---- | --- | --- | --- | --- |
- ✔️ | ✔️ | ✔️ | ❓ | ❓ | ❓ |
+--- | --- | --- | --- | --- | ---
+ ✔️ | ✔️ | ✔️ | ❓ | ❓ | ❓
 
 ## License
 This project is licensed under MIT License.
